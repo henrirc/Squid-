@@ -1,0 +1,2 @@
+# Squid-
+config squid 
